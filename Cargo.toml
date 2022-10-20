@@ -1,0 +1,6 @@
+[package]
+name = "minimal_arm_rust_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
